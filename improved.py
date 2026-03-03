@@ -8,7 +8,7 @@ def twoSums(nums, target):
 	return result
 				
         
-    
+
 	
 nums = []
 
